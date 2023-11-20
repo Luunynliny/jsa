@@ -29,7 +29,7 @@ I have always heard that finding a job as an engineer, especially in the compute
 Today's society has changed a lot since I started engineering school: the COVID-19 pandemic, technological HR process evolution and the "trend" of data science / AI jobs (field of passionated about).
 And with it come new emerging challenges : more people looking for a job, people switching careers and less position for juniors and freshly gratudent students.
 
-However, how accurate are those statements?
+However, how accurate are those statements ?
 
 We've all heard about,  and experienced,  recruitment processes being stretched or that it takes an insane amount of time to receive an answer from our applications (if we have the chance not be ghosted by companies). 
 
@@ -40,6 +40,10 @@ To provide answers to those interrogations, I monitored my job searches and data
 <!-- ROADMAP -->
 
 ## Roadmap
+
+Each of my job search entries is defined as : [*role*] - [*starting search month*] / [*starting search year*]
+
+- [ ] Data Scientist - 01 / 2023
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
