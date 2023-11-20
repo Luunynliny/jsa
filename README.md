@@ -24,6 +24,16 @@
 
 ## About
 
+I have always heard that finding a job as an engineer, especially in the computer science field, would be a breeze.
+
+Today's society has changed a lot since I started engineering school: the COVID-19 pandemic, technological HR process evolution and the "trend" of data science / AI jobs (field of passionated about).
+And with it come new emerging challenges : more people looking for a job, people switching careers and less position for juniors and freshly gratudent students.
+
+However, how accurate are those statements?
+
+We've all heard about,  and experienced,  recruitment processes being stretched or that it takes an insane amount of time to receive an answer from our applications (if we have the chance not be ghosted by companies). 
+
+To provide answers to those interrogations, I monitored my job searches and data analysis to try to discover trends in my adventure to find the perfect job. 
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
