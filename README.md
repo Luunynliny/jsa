@@ -33,7 +33,15 @@ However, how accurate are those statements ?
 
 We've all heard about,  and experienced,  recruitment processes being stretched or that it takes an insane amount of time to receive an answer from our applications (if we have the chance not be ghosted by companies). 
 
-To provide answers to those interrogations, I monitored my job searches and data analysis to try to discover trends in my adventure to find the perfect job. 
+To provide answers to those interrogations, I monitored my job searches and data analysis to try to discover trends in my adventure to find the perfect job.
+
+### Disclaimer
+
+My analyses are only relevant regarding the job market in France, the country I am from. I also apply for positions abroad, but those applications are in the minority.
+
+My experiences are obviously linked to the job field in which I chose to pursue my career.
+
+The conditions and specificities of each of the searches are specified at the beginning of the analysis.
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
