@@ -49,9 +49,9 @@ The conditions and specificities of each of the searches are specified at the be
 
 ## Roadmap
 
-Each of my job search entries is defined as : [*role*] - [*starting search month*] / [*starting search year*]
+Each of my job search entries is defined as : [*role*] - [*starting search monthand and year*]
 
-- [ ] Data Scientist - 01 / 2023
+- [ ] Data Scientist - September 2023
 
 <p align="right"><a href="#top"><i>back to top</i></a></p>
 
