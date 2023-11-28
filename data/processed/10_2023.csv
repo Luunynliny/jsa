@@ -1,4 +1,4 @@
-Status,Company,Role,Location,Source,Attendance,Application,Type,Phone call,1st interview,2nd interview,3rd interview,Proposition,Final answer,URL
+status,company,role,location,source,attendance,application,type,phone_call,1st_interview,2nd_interview,3rd_interview,proposition,final_answer,url
 Rejected,Orange,Data Scientist,Rennes,Carrer Site,Not specified,2023-08-30,Offer,2023-10-13,,,,,2023-10-26,https://orange.jobs/jobs/v3/offers/127229?lang=
 Applied,Orange,Data Scientist,Toulouse,Carrer Site,Not specified,2023-08-30,Offer,,,,,,,https://orange.jobs/jobs/v3/offers/128950?lang=
 Applied,AZ Consulting,Data Scientist,Not specified,Recruitment Agency,Not specified,2023-08-31,Spontaneous,,,,,,,https://az-recrutement.wixsite.com/az-recrutement
