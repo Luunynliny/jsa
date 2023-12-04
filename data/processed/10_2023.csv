@@ -1,0 +1,448 @@
+status,company,role,location,source,attendance,application,type,phone_call,1st_interview,2nd_interview,3rd_interview,proposition,final_answer,location_lat,location_long
+Rejected,Orange,Data Scientist,Rennes,Carrer Site,Not specified,2023-08-30,Offer,2023-10-13,,,,,2023-10-26,48.111339,-1.68002
+Applied,Orange,Data Scientist,Toulouse,Carrer Site,Not specified,2023-08-30,Offer,,,,,,,43.604462,1.444247
+Applied,AZ Consulting,Data Scientist,Not specified,Recruitment Agency,Not specified,2023-08-31,Spontaneous,,,,,,,,
+No project for now,ALTEN,Not specified,Marignane,Reach-out,Hybrid,,Not specified,2023-09-05,2023-09-06,,,,2023-09-06,43.416273,5.214627
+No project for now,Astek,Data Scientist,Not specified,LinkedIn,Not specified,2023-08-31,Spontaneous,2023-09-01,2023-09-07,,,,2023-09-07,,
+Applied,Capgemini,Data Scientist,Paris,Carrer Site,Not specified,2023-08-31,Offer,,,,,,,48.8534951,2.3483915
+Rejected,Capgemini,Data Engineer,Aix-en-Provence,Carrer Site,Not specified,2023-08-31,Offer,,,,,,2023-09-01,43.529842,5.447474
+In process,ALTEN,Data Scientist,Toulouse,Carrer Site,Not specified,2023-08-31,Offer,2023-08-31,2023-09-13,,,,,43.604462,1.444247
+Rejected,Thalès,AI,Roma,Reach-out,Not specified,,Not specified,2023-09-05,2023-09-08,,,,2023-10-05,41.89332,12.482932
+Turn down,CLEEVEN,Data Scientist,Antibe,Reach-out,Hybrid,,Not specified,2023-09-07,2023-09-14,2023-09-27,,2023-10-02,2023-10-05,43.5836,7.10905
+Rejected,AITEM,Data Engineer,Torino,Reach-out,Not specified,,Not specified,,2023-09-15,,,,2023-09-19,45.067755,7.682489
+Applied,ALTEN,Data Scientist,Not specified,Carrer Site,Not specified,2023-08-31,Spontaneous,,,,,,,,
+Rejected,Thalès,Data Engineer,Valbonne,Carrer Site,Not specified,2023-08-31,Offer,,,,,,2023-09-13,43.641141,7.008625
+Rejected,Thalès,Data Engineer,Vélizy-Villacoublay,Carrer Site,Not specified,2023-08-31,Offer,,,,,,2023-09-26,48.78095,2.190005
+Rejected,Devoteam,Data Engineer,Lyon,Carrer Site,Not specified,2023-09-01,Offer,,,,,,2023-09-21,45.757814,4.832011
+Rejected,Engie,Data Scientist,Courbevoie,Carrer Site,Not specified,2023-09-01,Offer,,,,,,2023-09-25,48.895333,2.25616
+Rejected,Engie,Data Scientist,Courbevoie,Carrer Site,Not specified,2023-09-01,Offer,,,,,,2023-10-10,48.895333,2.25616
+Rejected,Betclic,DataOps Engineer,Bordeaux,Carrer Site,Not specified,2023-09-01,Offer,,,,,,2023-09-06,44.841225,-0.580036
+Rejected,Deloitte,Data Scientist,Paris,Carrer Site,Not specified,2023-09-01,Offer,,,,,,2023-10-06,48.8534951,2.3483915
+Applied,Deloitte,Data Scientist,Paris,Carrer Site,Not specified,2023-09-01,Offer,,,,,,,48.8534951,2.3483915
+Applied,Viatris,Data Scientist,Lyon,Carrer Site,Not specified,2023-09-01,Offer,,,,,,,45.757814,4.832011
+Applied,Amiltone,Data Scientist,Nantes,Carrer Site,Not specified,2023-09-01,Offer,,,,,,,47.2181827,-1.5512441
+Applied,Amiltone,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-01,Spontaneous,,,,,,,,
+Applied,KWAN,Data Scientist,Portugal,LinkedIn,Remote,2023-09-01,Offer,,,,,,,39.6009946583093,-8.56273059638958
+Applied,KWAN,Data Scientist,Portugal,Carrer Site,Remote,2023-09-01,Spontaneous,,,,,,,39.6009946583093,-8.56273059638958
+Applied,Crédit Agricole,Data Engineer,Nantes,LinkedIn,Hybrid,2023-09-01,Offer,,,,,,,47.2181827,-1.5512441
+Applied,Crédit Agricole,Data Engineer,Paris,LinkedIn,Hybrid,2023-09-01,Offer,,,,,,,48.8534951,2.3483915
+Applied,EY,AI,Greece,Carrer Site,Remote,2023-09-01,Offer,,,,,,,38.5890212896367,23.8285537394706
+Applied,EY,Data Scientist,Athens,Carrer Site,Remote,2023-09-01,Offer,,,,,,,33.959768,-83.376398
+Applied,EY,Data Scientist,Athens,Carrer Site,Remote,2023-09-01,Offer,,,,,,,33.959768,-83.376398
+Rejected,EY,Data Scientist,Prague,Carrer Site,Not specified,2023-09-01,Offer,,,,,,2023-09-11,50.087465,14.421253
+Rejected,EY,Data Scientist,Geneva,Carrer Site,Not specified,2023-09-01,Offer,,,,,,2023-10-26,46.201756,6.146601
+Applied,agap2,Data Scientist,Paris,Apec,Not specified,2023-09-01,Offer,,,,,,,48.8534951,2.3483915
+Applied,Vertbaudet,Data Scientist,Tourcoing,Apec,Not specified,,Not specified,,,,,,,50.723504,3.160571
+Applied,EQUANS,Data Scientist,Courbevoie,Carrer Site,Not specified,2023-09-01,Offer,,,,,,,48.895333,2.25616
+Applied,EQUANS,Data Scientist,Genas,Carrer Site,Not specified,2023-09-01,Offer,,,,,,,45.733059,4.99656
+Applied,EQUANS,Data Scientist,Nantes,Carrer Site,Not specified,2023-09-01,Offer,,,,,,,47.2181827,-1.5512441
+Applied,EQUANS,Data Scientist,Lille,Carrer Site,Not specified,2023-09-01,Offer,,,,,,,50.636565,3.063528
+Rejected,Fortil,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-01,Spontaneous,,,,,,2023-09-04,,
+Applied,Fortil,Data Engineer,Lille,Carrer Site,Not specified,2023-09-01,Offer,,,,,,,50.636565,3.063528
+Applied,Astek,Data Engineer,Lille,Carrer Site,Not specified,2023-09-01,Offer,,,,,,,50.636565,3.063528
+Applied,Astek,Data Engineer,Bordeaux,Carrer Site,Not specified,2023-09-01,Offer,,,,,,,44.841225,-0.580036
+Rejected,Thalès,Data Engineer,Rennes,Carrer Site,Not specified,2023-09-02,Offer,,,,,,2023-09-05,48.111339,-1.68002
+Rejected,Atos,Data Engineer,Bezons,Carrer Site,Not specified,2023-09-02,Offer,,,,,,2023-09-07,48.925002,2.210549
+Rejected,Atos,Data Engineer,Villeurbanne,Carrer Site,Not specified,2023-09-02,Offer,,,,,,2023-09-28,45.773312,4.886899
+Rejected,Atos,Data Engineer,Bezons,Carrer Site,Not specified,2023-09-02,Offer,,,,,,2023-09-06,48.925002,2.210549
+Rejected,Atos,Data Engineer,Germany,Carrer Site,Not specified,2023-09-02,Offer,,,,,,2023-09-04,51.1334813439932,10.0183432948567
+Applied,Capgemini,Data Engineer,Lille,LinkedIn,Hybrid,2023-09-02,Offer,,,,,,,50.636565,3.063528
+Applied,Capgemini,Data Engineer,Grenoble,LinkedIn,Hybrid,2023-09-02,Offer,,,,,,,45.18756,5.735782
+Applied,Probayes,Data Scientist,Paris,Apec,Not specified,2023-09-02,Offer,,,,,,,48.8534951,2.3483915
+Rejected,Aphelio,Data Scientist,Grenoble,Pole emploi,Not specified,2023-09-02,Offer,,,,,,2023-09-07,45.18756,5.735782
+Applied,OXO-team,Data Scientist,Clermont-Ferrand,Apec,Not specified,2023-09-02,Offer,,,,,,,45.777455,3.081943
+Applied,Probayes,Data Scientist,Montbonnot-Saint-Martin,Apec,Not specified,2023-09-02,Offer,,,,,,,45.22645,5.80266
+Applied,INPI,Data Scientist,Courbevoie,Carrer Site,Hybrid,2023-09-02,Offer,,,,,,,48.895333,2.25616
+Applied,Micheal Page,Data Engineer,Nantes,HelloWork,Not specified,2023-09-02,Offer,,,,,,,47.2181827,-1.5512441
+Applied,RD2 Conseil,Data Scientist,Paris,Apec,Not specified,2023-09-02,Offer,,,,,,,48.8534951,2.3483915
+Rejected,RCA,Data Engineer,Saint-Herblain,Carrer Site,Not specified,2023-09-02,Offer,,,,,,2023-09-07,47.223301,-1.634696
+Applied,Gnomon Digital,Data Engineer,Puteaux,Apec,Not specified,2023-09-02,Offer,,,,,,,48.884152,2.236886
+Applied,SOLENT,AI,La Garenne-Colombes,Apec,Hybrid,2023-09-02,Offer,,,,,,,48.906935,2.246575
+Rejected,Sopra Steria,Data Engineer,Paris,Carrer Site,Not specified,2023-09-02,Offer,,,,,,2023-09-04,48.8534951,2.3483915
+Rejected,Sopra Steria,Data Engineer,Metz,Carrer Site,Hybrid,2023-09-02,Offer,,,,,,2023-09-18,49.119696,6.176355
+Applied,Numberly,Data Scientist,Paris,Carrer Site,Hybrid,2023-09-02,Offer,,,,,,,48.8534951,2.3483915
+Applied,Numberly,Data Scientist,Paris,Carrer Site,Hybrid,2023-09-02,Offer,,,,,,,48.8534951,2.3483915
+Applied,Numberly,Data Engineer,Not specified,Carrer Site,Remote,2023-09-02,Offer,,,,,,,,
+Applied,Numberly,DevOps Engineer,Paris,Carrer Site,Hybrid,2023-09-02,Offer,,,,,,,48.8534951,2.3483915
+Applied,MindPal,Data Scientist,Lyon,Carrer Site,On-site,2023-09-04,Offer,,,,,,,45.757814,4.832011
+Applied,Finegrain,AI,Paris,LinkedIn,Hybrid,2023-09-04,Offer,,,,,,,48.8534951,2.3483915
+Rejected,ABBYY,DevOps Engineer,Serbia,Carrer Site,Remote,2023-09-04,Offer,,,,,,2023-09-04,44.2267366369366,20.7952998132557
+Applied,Elanco,Data Scientist,USA,Carrer Site,Remote,2023-09-04,Offer,,,,,,,39.3812661305678,-97.9222112121185
+Applied,Valeo,AI,Prague,Carrer Site,Hybrid,2023-09-04,Offer,,,,,,,50.087465,14.421253
+Rejected,Valeo,Data Scientist,Neuses,Carrer Site,Not specified,2023-09-04,Offer,,,,,,2023-09-27,49.562808,10.926058
+Applied,Valeo,Data Engineer,Cairo,Carrer Site,Not specified,2023-09-04,Offer,,,,,,,30.044388,31.235726
+Rejected,Valeo,AI,Lübeck,Carrer Site,Not specified,2023-09-04,Offer,,,,,,2023-09-09,53.866444,10.684738
+Applied,Valeo,AI,Tuam,Carrer Site,Not specified,2023-09-04,Offer,,,,,,,-13.909227,-171.798858
+Applied,CGI,Data Scientist,Toulouse,Carrer Site,Hybrid,2023-09-04,Offer,,,,,,,43.604462,1.444247
+Applied,CGI,Data Scientist,Bielefeld,Carrer Site,Hybrid,2023-09-04,Offer,,,,,,,52.0213243,8.5351374
+Applied,CGI,Data Engineer,Muntinlupa,Carrer Site,Hybrid,2023-09-04,Offer,,,,,,,14.3892634,121.0449101
+Applied,CGI,Data Scientist,Arnhem,Carrer Site,Not specified,2023-09-04,Offer,,,,,,,51.984257,5.910857
+Applied,CGI,Data Scientist,Randstad,Carrer Site,Not specified,2023-09-04,Offer,,,,,,,52.378042,5.226072
+Applied,SII,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-04,Spontaneous,,,,,,,,
+Applied,Inetum,Data Engineer,Bucharest,Carrer Site,Remote,2023-09-04,Offer,,,,,,,44.4361414,26.1027202
+Rejected,Inetum,Data Engineer,Orléans,Carrer Site,Hybrid,2023-09-04,Offer,,,,,,2023-09-05,47.902734,1.908607
+Rejected,Inetum,Data Scientist,Lille,Carrer Site,Hybrid,2023-09-04,Offer,,,,,,2023-09-12,50.636565,3.063528
+Applied,Differs,Data Scientist,Paris,LinkedIn,Hybrid,2023-09-04,Offer,,,,,,,48.8534951,2.3483915
+Rejected,Ryte.ai,Data Scientist,Paris,LinkedIn,On-site,2023-09-04,Offer,,,,,,2023-09-08,48.8534951,2.3483915
+Applied,Erba,Data Scientist,Montpellier,LinkedIn,On-site,2023-09-04,Offer,,,,,,,43.611242,3.876734
+Applied,VISEO,Data Scientist,Aix-en-Provence,LinkedIn,Hybrid,2023-09-04,Offer,,,,,,,43.529842,5.447474
+Rejected,TotalEnergies,Data Scientist,Courbevoie,Carrer Site,Not specified,2023-09-04,Offer,,,,,,2023-09-15,48.895333,2.25616
+Rejected,TotalEnergies,AI,Pau,Carrer Site,Not specified,2023-09-04,Offer,,,,,,2023-09-24,-0.93624,100.443928
+Rejected,TotalEnergies,Data Scientist,Paris,Carrer Site,Not specified,2023-09-04,Offer,,,,,,2023-10-10,48.8534951,2.3483915
+Rejected,TotalEnergies,Data Scientist,Geneva,Carrer Site,Not specified,2023-09-04,Offer,,,,,,2023-10-07,46.201756,6.146601
+Applied,Scalian,Data Scientist,Bordeaux,Carrer Site,Not specified,2023-09-04,Offer,,,,,,,44.841225,-0.580036
+Applied,Scalian,AI,Paris,Carrer Site,Not specified,2023-09-04,Offer,,,,,,,48.8534951,2.3483915
+Applied,Scalian,Data Engineer,Valbonne,Carrer Site,Not specified,2023-09-04,Offer,,,,,,,43.641141,7.008625
+Rejected,Extia,Data Engineer,Lyon,Carrer Site,Not specified,2023-09-04,Offer,,,,,,2023-09-06,45.757814,4.832011
+Applied,Grade Booster,Data Scientist,Paris,LinkedIn,Not specified,2023-09-04,Offer,,,,,,,48.8534951,2.3483915
+Applied,Axelor,Data Engineer,Champs-sur-Marne,LinkedIn,Not specified,2023-09-04,Offer,,,,,,,48.852689,2.602722
+Applied,SHOOM,Data Scientist,Brest,LinkedIn,Not specified,2023-09-04,Offer,,,,,,,52.093751,23.685185
+Rejected,Extia,Data Scientist,Strasbourg,Carrer Site,Not specified,2023-09-04,Offer,,,,,,2023-09-06,48.5834833,7.7468476
+Rejected,Extia,Data Engineer,Paris,Carrer Site,Not specified,2023-09-04,Offer,,,,,,2023-09-06,48.8534951,2.3483915
+Rejected,Extia,Data Engineer,Bordeaux,Carrer Site,Not specified,2023-09-04,Offer,,,,,,2023-09-06,44.841225,-0.580036
+Rejected,Extia,Data Engineer,Paris,Carrer Site,Not specified,2023-09-04,Offer,,,,,,2023-09-06,48.8534951,2.3483915
+Applied,eXalt,Data Scientist,Paris,Carrer Site,Not specified,2023-09-04,Offer,,,,,,,48.8534951,2.3483915
+Applied,Vivid Resourcing,AI,Amsterdam,LinkedIn,Not specified,2023-09-04,Offer,,,,,,,52.378,4.9
+In process,Bioseb,AI,Vitrolles,LinkedIn,Not specified,2023-09-04,Offer,2023-09-19,,,,,,43.45937,5.248264
+Applied,HOPLO,AI,Cagliari,LinkedIn,On-site,2023-09-04,Offer,,,,,,,39.216953,9.112851
+Applied,harnham,Data Scientist,Paris,Carrer Site,Hybrid,2023-09-05,Offer,,,,,,,48.8534951,2.3483915
+Applied,harnham,Data Scientist,Leeds,Carrer Site,Hybrid,2023-09-05,Offer,,,,,,,53.797419,-1.543794
+Applied,harnham,Data Scientist,London,Carrer Site,Hybrid,2023-09-05,Offer,,,,,,,51.507322,-0.127647
+Applied,harnham,Data Scientist,London,Carrer Site,Hybrid,2023-09-05,Offer,,,,,,,51.507322,-0.127647
+Applied,harnham,Data Scientist,Birmingham,Carrer Site,Hybrid,2023-09-05,Offer,,,,,,,52.479699,-1.902691
+Applied,harnham,Data Scientist,London,Carrer Site,Remote,2023-09-05,Offer,,,,,,,51.507322,-0.127647
+Applied,harnham,Data Scientist,Manchester,Carrer Site,Hybrid,2023-09-05,Offer,,,,,,,53.479489,-2.245115
+Applied,harnham,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-05,Spontaneous,,,,,,,,
+Applied,DESKi,Data Scientist,Bordeaux,LinkedIn,Hybrid,2023-09-05,Offer,,,,,,,44.841225,-0.580036
+Applied,InovaYa,Data Scientist,Chasse-sur-Rhône,LinkedIn,Hybrid,2023-09-05,Offer,,,,,,,45.578944,4.81145
+Applied,Ellisphere,Data Engineer,Lyon,LinkedIn,On-site,2023-09-05,Offer,,,,,,,45.757814,4.832011
+Applied,ALTEN,Data Engineer,Metz,LinkedIn,On-site,2023-09-05,Offer,,,,,,,49.119696,6.176355
+Applied,LR TECHNOLOGIES GROUPE,AI,Toulouse,LinkedIn,On-site,2023-09-05,Offer,,,,,,,43.604462,1.444247
+Applied,Agence nationale des titres sécurisés,Data Scientist,Charleville Mézières,Carrer Site,On-site,2023-09-05,Offer,,,,,,,49.773571,4.720694
+Applied,Datatorii,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-05,Spontaneous,,,,,,,,
+Rejected,Devoteam,Data Engineer,Lille,Carrer Site,Hybrid,2023-09-05,Offer,,,,,,2023-09-07,50.636565,3.063528
+Rejected,Devoteam,Data Scientist,Levallois-Perret,Carrer Site,Not specified,2023-09-05,Offer,,,,,,2023-09-18,48.892956,2.288168
+Applied,Ekinox,Data Scientist,Paris,LinkedIn,Hybrid,2023-09-05,Offer,,,,,,,48.8534951,2.3483915
+Applied,Positive Thinking Company,Data Scientist,Paris,LinkedIn,Hybrid,2023-09-05,Offer,,,,,,,48.8534951,2.3483915
+Applied,MFG Labs,Data Scientist,Pantin,LinkedIn,Hybrid,2023-09-05,Offer,,,,,,,48.896502,2.40198
+Applied,Urban Linker,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-05,Spontaneous,,,,,,,,
+Applied,ALTEN,Not specified,Toulouse,LinkedIn,Not specified,2023-09-05,Spontaneous,,,,,,,43.604462,1.444247
+Applied,Hespérie Conseil,Data Scientist,Paris,Carrer Site,Not specified,2023-09-05,Spontaneous,,,,,,,48.8534951,2.3483915
+Applied,ShoWhere,Data Analyst,France,LinkedIn,Remote,2023-09-05,Offer,,,,,,,47.8249046208979,2.61878695312962
+Rejected,BearingPoint,Data Scientist,Paris,Carrer Site,Hybrid,2023-09-05,Offer,,,,,,2023-09-12,48.8534951,2.3483915
+Applied,Keyrus,Data Analyst,Aix-en-Provence,Pole emploi,Not specified,2023-09-06,Offer,,,,,,,43.529842,5.447474
+Applied,PolyConseil,Data Scientist,Paris,Pole emploi,Not specified,2023-09-06,Offer,,,,,,,48.8534951,2.3483915
+Rejected,Sia Partners,AI,Paris,Carrer Site,Not specified,2023-09-06,Offer,,,,,,2023-09-11,48.8534951,2.3483915
+Rejected,Sia Partners,Data Engineer,Paris,Carrer Site,Not specified,2023-09-06,Offer,,,,,,2023-10-31,48.8534951,2.3483915
+Rejected,Sia Partners,Data Scientist,Paris,Carrer Site,Not specified,2023-09-06,Offer,,,,,,2023-09-11,48.8534951,2.3483915
+Rejected,Sia Partners,Data Scientist,Montréal,Carrer Site,Not specified,2023-09-06,Offer,,,,,,2023-10-31,45.503182,-73.569807
+Applied,Sophia Engineering,Data Scientist,Cagnes-sur-Mer,Apec,Not specified,2023-09-06,Offer,,,,,,,43.661201,7.151383
+Rejected,Shom,Data Scientist,Brest,Apec,Not specified,2023-09-06,Offer,,,,,,2023-09-29,52.093751,23.685185
+Applied,Aquila,AI,Montrouge,Apec,Not specified,2023-09-07,Offer,,,,,,,48.818854,2.319437
+Applied,Fed Finance,Data Scientist,Nanterre,Cadremploi,Not specified,2023-09-07,Offer,,,,,,,48.892427,2.207127
+Applied,Unédic,Data Analyst,Paris,Apec,Not specified,2023-09-07,Offer,,,,,,,48.8534951,2.3483915
+Rejected,Business & Decision,Data Scientist,Toulouse,Apec,Not specified,2023-09-07,Offer,,,,,,2023-09-20,43.604462,1.444247
+Applied,,Data Engineer,Paris,Pole emploi,Not specified,2023-09-07,Offer,,,,,,,48.8534951,2.3483915
+Applied,adversio,Data Scientist,Puteaux,Apec,Not specified,2023-09-07,Offer,,,,,,,48.884152,2.236886
+Rejected,IDEMIA,AI,Osny,Carrer Site,Not specified,2023-09-07,Offer,,,,,,2023-09-19,49.066049,2.06146
+Applied,StereoLabs,AI,Paris,Carrer Site,Not specified,2023-09-07,Offer,,,,,,,48.8534951,2.3483915
+Applied,StereoLabs,AI,Paris,Carrer Site,Not specified,2023-09-07,Offer,,,,,,,48.8534951,2.3483915
+Rejected,IDEMIA,AI,Courbevois,Carrer Site,Not specified,2023-09-07,Offer,,,,,,2023-09-19,48.895333,2.25616
+Applied,Descartes Underwriting,Data Scientist,Paris,LinkedIn,Not specified,2023-09-07,Offer,,,,,,,48.8534951,2.3483915
+Applied,Niji,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-07,Spontaneous,,,,,,,,
+Applied,talentbase.tech,AI,Germany,LinkedIn,Remote,2023-09-07,Offer,,,,,,,51.1334813439932,10.0183432948567
+Rejected,Summ.link,AI,Not specified,LinkedIn,Remote,2023-09-07,Offer,,,,,,2023-09-09,,
+Rejected,Safran,Data Scientist,Paris,Carrer Site,Not specified,2023-09-07,Offer,,,,,,2023-11-10,48.8534951,2.3483915
+Applied,DXOMARK,AI,Paris,Carrer Site,Remote,2023-09-11,Offer,,,,,,,48.8534951,2.3483915
+Rejected,TechnicAtome,Data Scientist,Aix-en-Provence,LinkedIn,On-site,2023-09-11,Offer,,,,,,2023-09-23,43.529842,5.447474
+Rejected,InstaDeep,AI,Paris,LinkedIn,Hybrid,2023-09-11,Offer,,,,,,2023-09-13,48.8534951,2.3483915
+Rejected,InstaDeep,AI,Paris,Carrer Site,Hybrid,2023-09-11,Offer,,,,,,2023-10-02,48.8534951,2.3483915
+Rejected,Nextra,Data Scientist,Marseille,Carrer Site,Hybrid,2023-09-11,Offer,,,,,,2023-10-12,43.296174,5.369952
+Rejected,Nextra,Data Engineer,Marseille,Carrer Site,Hybrid,2023-09-11,Offer,,,,,,2023-10-26,43.296174,5.369952
+Applied,Nextra,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-11,Spontaneous,,,,,,,,
+Applied,Clone,Data Scientist,Paris,LinkedIn,On-site,2023-09-11,Offer,,,,,,,48.8534951,2.3483915
+Rejected,AKKODIS,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-11,Spontaneous,,,,,,2023-09-21,,
+Applied,AKKODIS,Data Scientist,Torino,Carrer Site,Not specified,2023-09-11,Offer,,,,,,,45.067755,7.682489
+Applied,AKKODIS,AI,Milano,Carrer Site,Not specified,2023-09-11,Offer,,,,,,,45.4639447,9.1885578
+Rejected,MAIF,Data Scientist,Niort,Carrer Site,Not specified,2023-09-11,Offer,,,,,,2023-09-15,46.324113,-0.46494
+Rejected,MAIF,Data Engineer,Niort,Carrer Site,Not specified,2023-09-11,Offer,,,,,,2023-09-13,46.324113,-0.46494
+Rejected,MAIF,Data Engineer,Niort,Carrer Site,Not specified,2023-09-11,Offer,,,,,,2023-09-14,46.324113,-0.46494
+Applied,MAIF,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-11,Spontaneous,,,,,,,,
+Applied,Probayes,Data Scientist,Paris,Apec,Not specified,2023-09-11,Offer,,,,,,,48.8534951,2.3483915
+Rejected,Airbus,Data Scientist,Manching,Carrer Site,Not specified,2023-09-11,Offer,,,,,,2023-09-23,48.717136,11.494068
+Rejected,Airbus,Data Analyst,Montréal,Carrer Site,Not specified,2023-09-11,Offer,,,,,,2023-09-20,45.503182,-73.569807
+Applied,Iroko,Data Analyst,Paris,Welcome to the Jungle,Hybrid,2023-09-11,Offer,,,,,,,48.8534951,2.3483915
+Rejected,Veltys,Data Scientist,Paris,Welcome to the Jungle,Hybrid,2023-09-11,Offer,,,,,,2023-09-11,48.8534951,2.3483915
+Rejected,Mawenzi Partners,Data Scientist,Paris,Welcome to the Jungle,Hybrid,2023-09-11,Offer,,,,,,2023-09-13,48.8534951,2.3483915
+Applied,Proteqt,Data Engineer,The Randstad,LinkedIn,Hybrid,2023-09-11,Offer,,,,,,,44.30585,-78.319477
+Applied,IBM,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-11,Spontaneous,,,,,,,,
+Rejected,TotalEnergies,Data Scientist,Pau,Carrer Site,Not specified,2023-09-12,Offer,,2023-09-19,,,,2023-11-15,-0.93624,100.443928
+Turn down,TotalEnergies,Data Analyst,Pau,Reach-out,Not specified,,Not specified,,2023-11-06,,,2023-11-15,2023-11-15,-0.93624,100.443928
+No project for now,ALTEN,Data Scientist,Paris,Reach-out,Not specified,,Not specified,2023-09-18,2023-09-25,,,,2023-10-27,48.8534951,2.3483915
+Turn down,ALTEN,Data Scientist,Nantes,Reach-out,On-site,,Not specified,2023-09-19,2023-09-20,2023-09-25,,2023-09-26,2023-10-05,47.2181827,-1.5512441
+Rejected,Belgatech,Not specified,Belgique,Reach-out,Not specified,,Not specified,2023-09-20,2023-09-29,,,,2023-10-27,51.574979,0.026015
+Applied,Witts,Data Scientist,Spain,LinkedIn,Remote,2023-09-12,Offer,,,,,,,41.2948556295683,-4.05568501525488
+Applied,Human Biome Instute,Data Scientist,Poland,LinkedIn,Remote,2023-09-12,Offer,,,,,,,52.1246099075455,19.30063630556
+Applied,Inetum,Data Engineer,St Ouen,LinkedIn,On-site,2023-09-12,Offer,,,,,,,48.911729,2.334267
+Applied,Schindler,Data Analyst,Vélizy-Villacoublay,LinkedIn,On-site,2023-09-12,Offer,,,,,,,48.78095,2.190005
+Rejected,Decaposte,Data Engineer,Lyon,Carrer Site,Not specified,2023-09-12,Offer,,,,,,2023-09-25,45.757814,4.832011
+Applied,Accessible Intelligence,Data Scientist,United Kingdom,LinkedIn,Remote,2023-09-12,Offer,,,,,,,54.2379333607472,-2.36966957036279
+Applied,Apziva,Data Scientist,United Kingdom,LinkedIn,Remote,2023-09-12,Offer,,,,,,,54.2379333607472,-2.36966957036279
+Applied,harnam,Data Engineer,Hastings,Carrer Site,Remote,2023-09-12,Offer,,,,,,,50.855389,0.58247
+Applied,Reverse Tech,Data Engineer,Barcelona,LinkedIn,Remote,2023-09-12,Offer,,,,,,,41.382894,2.177432
+Applied,Accure,AI,Paris,Pole emploi,Not specified,2023-09-12,Offer,,,,,,,48.8534951,2.3483915
+Applied,Accure,Data Scientist,Paris,Pole emploi,Not specified,2023-09-12,Offer,,,,,,,48.8534951,2.3483915
+Applied,AXA,Data Engineer,Chatillon,Carrer Site,Not specified,2023-09-12,Offer,,,,,,,48.799776,2.289712
+Applied,Orange,Data Scientist,Morocco,Carrer Site,Not specified,2023-09-12,Offer,,,,,,,32.3507513130338,-6.01707272732872
+Rejected,Orange,Data Engineer,Mougins,Carrer Site,Not specified,2023-09-12,Offer,,,,,,2023-09-16,43.60089,6.996354
+Applied,Orange,Data Engineer,Morocco,Carrer Site,Not specified,2023-09-12,Offer,,,,,,,32.3507513130338,-6.01707272732872
+Rejected,Sofrecom,AI,Chatillon,Carrer Site,Not specified,2023-09-12,Offer,,,,,,2023-09-21,48.799776,2.289712
+Applied,Orange,Data Analyst,Morocco,Carrer Site,Not specified,2023-09-12,Offer,,,,,,,32.3507513130338,-6.01707272732872
+Rejected,MAIF,Data Analyst,Niort,Carrer Site,Not specified,2023-09-12,Offer,,,,,,2023-09-19,46.324113,-0.46494
+Rejected,Welleat,Data Engineer,Lille,Pole emploi,Not specified,2023-09-13,Offer,,,,,,2023-09-13,50.636565,3.063528
+Applied,Amiltone,Data Scientist,Villeurbanne,HelloWork,Not specified,2023-09-13,Offer,,,,,,,45.773312,4.886899
+Applied,Amiltone,Data Scientist,Nantes,HelloWork,Not specified,2023-09-13,Offer,,,,,,,47.2181827,-1.5512441
+Applied,EDF,Data Scientist,Puteaux,HelloWork,Not specified,2023-09-13,Offer,,,,,,,48.884152,2.236886
+Applied,Ouest France,Data Scientist,Rennes,HelloWork,Not specified,2023-09-13,Offer,,,,,,,48.111339,-1.68002
+Applied,CEA,Data Scientist,Gif-sur-Yvette,Carrer Site,Not specified,2023-09-13,Offer,,,,,,,48.701882,2.134529
+Applied,CEA,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-13,Spontaneous,,,,,,,,
+Applied,Viveris,Data Scientist,Strasbourgh,HelloWork,Not specified,2023-09-13,Offer,,,,,,,48.5834833,7.7468476
+Applied,Ekkiden,Data Scientist,Not specified,Not specified,Not specified,2023-09-13,Spontaneous,,,,,,,,
+Applied,Urban Linker,AI,Lyon,LinkedIn,Not specified,2023-09-13,Offer,,,,,,,45.757814,4.832011
+Applied,HR Team,Data Engineer,Nice,HelloWork,Hybrid,2023-09-13,Offer,,,,,,,43.7100815,7.2618439
+Rejected,Auchan,Data Scientist,Villeneuve-d'Ascq,HelloWork,Not specified,2023-09-13,Offer,,,,,,2023-09-21,50.619317,3.1314
+Applied,Thalès,Data Engineer,Crawlex,Carrer Site,Not specified,2023-09-13,Offer,,,,,,,51.110344,-0.180109
+Rejected,Criteo,AI,Not specified,Carrer Site,Hybrid,2023-09-13,Offer,,,,,,2023-09-21,,
+Applied,Life Plus IO,Data Engineer,Paris,LinkedIn,Hybrid,2023-09-13,Offer,,,,,,,48.8534951,2.3483915
+Applied,Noda,DevOps Engineer,Latvia,LinkedIn,Remote,2023-09-13,Offer,,,,,,,56.9590654127872,24.8625932740492
+Applied,Gaming Innovation Group,DevOps Engineer,Malta,LinkedIn,Remote,2023-09-13,Offer,,,,,,,35.890522427978,14.4419213796182
+Applied,PwC,Data Engineer,Neuilly-sur-Seine,Carrer Site,Not specified,2023-09-13,Offer,,,,,,,48.884683,2.269566
+Rejected,PwC,Data Analyst,Neuilly-sur-Seine,Carrer Site,Not specified,2023-09-13,Offer,,,,,,2023-10-10,48.884683,2.269566
+Rejected,PwC,Data Analyst,Neuilly-sur-Seine,Carrer Site,Not specified,2023-09-13,Offer,,,,,,2023-09-20,48.884683,2.269566
+Applied,S4E - Energysoft,Data Scientist,Lorient,LinkedIn,On-site,2023-09-13,Offer,,,,,,,47.747734,-3.366091
+Applied,Alcimed,Data Scientist,Lyon,Welcome to the Jungle,Hybrid,2023-09-13,Offer,,,,,,,45.757814,4.832011
+Rejected,La Banque Postale,Data Scientist,Paris,Welcome to the Jungle,Not specified,2023-09-13,Offer,,,,,,2023-10-25,48.8534951,2.3483915
+Rejected,BPCE,Data Engineer,Nantes,Welcome to the Jungle,Not specified,2023-09-13,Offer,,,,,,2023-09-29,47.2181827,-1.5512441
+Rejected,Acti Conseils,Data Scientist,Blagnac,Pole emploi,Not specified,2023-09-15,Offer,,,,,,2023-09-18,43.6434,1.37799
+Applied,Equancy,Data Scientist,Paris,Pole emploi,Not specified,2023-09-15,Offer,,,,,,,48.8534951,2.3483915
+Applied,Valeo,AI,Créteil,Carrer Site,Hybrid,2023-09-15,Offer,,,,,,,48.777149,2.453073
+Applied,Valeo,AI,Créteil,Carrer Site,Not specified,2023-09-15,Offer,,,,,,,48.777149,2.453073
+Rejected,Contentsquare,Data Engineer,Paris,LinkedIn,Not specified,2023-09-15,Offer,,,,,,2023-09-15,48.8534951,2.3483915
+Rejected,Simplon.co,Data Analyst,Montreuil,LinkedIn,Hybrid,2023-09-15,Offer,,,,,,2023-09-19,48.862336,2.441218
+Applied,Alcimed,Data Scientist,Lyon,LinkedIn,On-site,2023-09-15,Offer,,,,,,,45.757814,4.832011
+Applied,Synamedia,DataOps Engineer,Rennes,LinkedIn,Not specified,2023-09-15,Offer,,,,,,,48.111339,-1.68002
+Applied,Inediia,Data Engineer,Lille,LinkedIn,Hybrid,2023-09-15,Offer,,,,,,,50.636565,3.063528
+Applied,ALFI : Financial Markets Consultancy Services,DevOps Engineer,Paris,LinkedIn,Hybrid,2023-09-15,Offer,,,,,,,48.8534951,2.3483915
+Rejected,SFEIR,AI,Paris,Carrer Site,Hybrid,2023-09-15,Offer,,,,,,2023-09-19,48.8534951,2.3483915
+Applied,Prima,Data Scientist,Milano,Carrer Site,Not specified,2023-09-15,Offer,,,,,,,45.4639447,9.1885578
+Applied,CLIKA Inc.,AI,Seoul,LinkedIn,On-site,2023-09-15,Offer,,,,,,,37.5666791,126.9782914
+Applied,SFEIR,Data Engineer,Bruxelles,Carrer Site,Hybrid,2023-09-15,Offer,,,,,,,53.341305,-6.260924
+Applied,SFEIR,Data Engineer,Luxembourg,Carrer Site,Hybrid,2023-09-15,Offer,,,,,,,49.7706279766425,6.08781366657564
+Rejected,SFEIR,Data Engineer,Nantes,Carrer Site,Hybrid,2023-09-15,Offer,,,,,,2023-09-22,47.2181827,-1.5512441
+Applied,Inetum,DevOps Engineer,Sophia Antopolis,LinkedIn,On-site,2023-09-15,Offer,,,,,,,43.617084,7.057604
+Rejected,Devoteam,DevOps Engineer,Lille,LinkedIn,On-site,2023-09-15,Offer,,,,,,2023-09-20,50.636565,3.063528
+Applied,INEDIIA,Data Scientist,Paris,LinkedIn,Hybrid,2023-09-17,Offer,,,,,,,48.8534951,2.3483915
+Applied,Adservio Group,Data Engineer,Puteaux,LinkedIn,On-site,2023-09-18,Offer,,,,,,,48.884152,2.236886
+Rejected,Fortil,DevOps Engineer,Strasbourgh,Carrer Site,Not specified,2023-09-18,Offer,,,,,,2023-09-18,48.5834833,7.7468476
+Applied,Fortil,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-18,Spontaneous,,,,,,,,
+Applied,Fortil,DevOps Engineer,Brest,Carrer Site,Not specified,2023-09-18,Offer,,,,,,,52.093751,23.685185
+Applied,Fortil,DevOps Engineer,Rennes,Carrer Site,Not specified,2023-09-18,Offer,,,,,,,48.111339,-1.68002
+Applied,Fortil,Data Analyst,Lille,Carrer Site,Not specified,2023-09-18,Offer,,,,,,,50.636565,3.063528
+Applied,Fortil,DevOps Engineer,Nantes,Carrer Site,Not specified,2023-09-18,Offer,,,,,,,47.2181827,-1.5512441
+Applied,Fortil,Data Engineer,Lille,Carrer Site,Not specified,2023-09-18,Offer,,,,,,,50.636565,3.063528
+Applied,Fortil,DevOps Engineer,Lille,Carrer Site,Not specified,2023-09-18,Offer,,,,,,,50.636565,3.063528
+Applied,Atos,Data Scientist,Timisoara,Carrer Site,Not specified,2023-09-18,Offer,,,,,,,45.80993,21.320318
+Applied,Thalès,Data Scientist,Limours,Carrer Site,Not specified,2023-09-18,Offer,,,,,,,48.645588,2.075826
+Applied,Thalès,Data Engineer,Valbonne,Carrer Site,Not specified,2023-09-18,Offer,,,,,,,43.641141,7.008625
+Rejected,Thalès,Data Engineer,Bristol,Carrer Site,Not specified,2023-09-18,Offer,,,,,,2023-09-18,51.453802,-2.597299
+Applied,Thalès,Data Engineer,Crawley,Carrer Site,Not specified,2023-09-18,Offer,,,,,,,51.110344,-0.180109
+Applied,Thalès,DevOps Engineer,"Vélizy-Villacoublay,",Carrer Site,Not specified,2023-09-18,Offer,,,,,,,48.78095,2.190005
+Applied,Devoteam,Data Engineer,Lille,LinkedIn,Hybrid,2023-09-18,Offer,,,,,,,50.636565,3.063528
+Applied,Inetum,DevOps Engineer,Montpellier,LinkedIn,On-site,2023-09-18,Offer,,,,,,,43.611242,3.876734
+Applied,Devoteam,DevOps Engineer,Levallois-Perret,LinkedIn,Hybrid,2023-09-18,Offer,,,,,,,48.892956,2.288168
+Applied,La Banque Postale,Data Analyst,Paris,LinkedIn,On-site,2023-09-18,Offer,,,,,,,48.8534951,2.3483915
+Applied,Enjoyourtalent,DevOps Engineer,Spain,LinkedIn,Remote,2023-09-18,Offer,,,,,,,41.2948556295683,-4.05568501525488
+Applied,Heva,Data Scientist,Lyon,LinkedIn,Hybrid,2023-09-18,Offer,,,,,,,45.757814,4.832011
+Applied,Capgemini,Data Scientist,Paris,Carrer Site,Not specified,2023-09-18,Offer,,,,,,,48.8534951,2.3483915
+Applied,Linksium,DataOps Engineer,Annecy,LinkedIn,Hybrid,2023-09-18,Offer,,,,,,,45.899235,6.128885
+Applied,MP Data,Data Scientist,Not specified,Welcome to the Jungle,Hybrid,2023-09-18,Offer,,,,,,,,
+Applied,Grant Thornton,Data Analyst,Neuilly,Carrer Site,Not specified,2023-09-18,Offer,,,,,,,48.884683,2.269566
+Applied,Eleven Strategy,Data Scientist,Paris,Welcome to the Jungle,Hybrid,2023-09-18,Offer,,,,,,,48.8534951,2.3483915
+Rejected,Jagex,Data Scientist,Cambridge,LinkedIn,Remote,2023-09-18,Offer,,,,,,2023-09-21,52.203482,0.123582
+Applied,SoyHuCE,AI,Paris,LinkedIn,Hybrid,2023-09-18,Offer,,,,,,,48.8534951,2.3483915
+Applied,Kayak,Data Analyst,Amsterdam,LinkedIn,Hybrid,2023-09-18,Offer,,,,,,,52.378,4.9
+Applied,Edenred,Data Scientist,Paris,Carrer Site,Not specified,2023-09-18,Offer,,,,,,,48.8534951,2.3483915
+Rejected,Servier,Data Scientist,Suresnes,Carrer Site,Not specified,2023-09-18,Offer,,,,,,2023-09-23,48.870905,2.225573
+Applied,Nextra,Data Engineer,Marseille,LinkedIn,Hybrid,2023-09-19,Offer,,,,,,,43.296174,5.369952
+Applied,Neosoft,Data Engineer,Lille,LinkedIn,Hybrid,2023-09-19,Offer,,,,,,,50.636565,3.063528
+Rejected,PREREQUIS,Data Engineer,Rennes,LinkedIn,Hybrid,2023-09-19,Offer,,,,,,2023-09-26,48.111339,-1.68002
+Rejected,Amaris Consulting,Data Engineer,Lille,Carrer Site,Not specified,2023-09-19,Offer,,,,,,2023-09-19,50.636565,3.063528
+Applied,Amiltone,Data Engineer,Toulon,LinkedIn,Not specified,2023-09-19,Offer,,,,,,,43.125731,5.930492
+Rejected,Cleyrop,Software Engineer,Paris,LinkedIn,Hybrid,2023-09-19,Offer,,,,,,2023-09-21,48.8534951,2.3483915
+Applied,TotalEnergies,Not specified,Not specified,Carrer Site,Not specified,2023-09-19,Spontaneous,,,,,,,,
+Applied,Urban Linker,Software Engineer,Paris,LinkedIn,Hybrid,2023-09-19,Offer,,,,,,,48.8534951,2.3483915
+Applied,tocco,Software Engineer,Paris,LinkedIn,Hybrid,2023-09-19,Offer,,,,,,,48.8534951,2.3483915
+Applied,IDEMIA,Not specified,Not specified,LinkedIn,Not specified,2023-09-19,Offer,,,,,,,,
+Rejected,Dataiku,Software Engineer,Paris,Carrer Site,Hybrid,2023-09-19,Offer,,,,,,2023-09-22,48.8534951,2.3483915
+Rejected,Dataiku,Software Engineer,Paris,Carrer Site,Hybrid,2023-09-19,Offer,,,,,,2023-09-25,48.8534951,2.3483915
+Rejected,N26,Data Scientist,Barcelona,Carrer Site,Hybrid,2023-09-19,Offer,,,,,,2023-09-26,41.382894,2.177432
+Turn down,REDLab,Data Analyst,Rouen,LinkedIn,Hybrid,2023-09-19,Offer,,,,,,2023-11-10,49.4433471,1.0992883
+Applied,tricefal,Data Scientist,Not specified,Reach-out,Not specified,2023-09-19,Spontaneous,,,,,,,,
+Applied,France Télévisions,Data Scientist,Paris,Carrer Site,On-site,2023-09-19,Offer,,,,,,,48.8534951,2.3483915
+Applied,SOFTEAM,Data Engineer,Paris,LinkedIn,Hybrid,2023-09-19,Offer,,,,,,,48.8534951,2.3483915
+Applied,Polyconseil,Data Engineer,Paris,LinkedIn,Hybrid,2023-09-19,Offer,,,,,,,48.8534951,2.3483915
+Applied,DCG,Data Scientist,Poland,LinkedIn,Remote,2023-09-19,Offer,,,,,,,52.1246099075455,19.30063630556
+Applied,Kaino,Data Architect,Nantes,LinkedIn,Hybrid,2023-09-19,Offer,,,,,,,47.2181827,-1.5512441
+Applied,Devoteam,Cloud Engineer,Lille,LinkedIn,Hybrid,2023-09-19,Offer,,,,,,,50.636565,3.063528
+Rejected,Homa,Data Engineer,Paris,LinkedIn,On-site,2023-09-20,Offer,,,,,,2023-09-27,48.8534951,2.3483915
+Rejected,Valeo,AI,Créteil,Carrer Site,Not specified,2023-09-20,Offer,,,,,,2023-10-02,48.777149,2.453073
+Rejected,Idoven,Data Scientist,Madrid,LinkedIn,Remote,2023-09-20,Offer,,,,,,2023-09-25,40.416705,-3.703583
+Applied,harnham,Data Engineer,Paris,LinkedIn,Hybrid,2023-09-20,Offer,,,,,,,48.8534951,2.3483915
+Applied,Inetum,Data Engineer,Courbevoie,LinkedIn,On-site,2023-09-20,Offer,,,,,,,48.895333,2.25616
+Applied,SII,Data Engineer,Lille,Carrer Site,Not specified,2023-09-20,Offer,,,,,,,50.636565,3.063528
+Applied,SII,Data Engineer,Lille,Carrer Site,Not specified,2023-09-20,Offer,,,,,,,50.636565,3.063528
+Applied,Stack Labs,Data Engineer,Toulouse,LinkedIn,Hybrid,2023-09-20,Offer,,,,,,,43.604462,1.444247
+Rejected,Mobiskill,DevOps Engineer,Paris,LinkedIn,On-site,2023-09-20,Offer,,,,,,2023-09-21,48.8534951,2.3483915
+Applied,Axéréal,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-20,Spontaneous,,,,,,,,
+Applied,Axéréal,Data Engineer,Olivet,Carrer Site,Not specified,2023-09-20,Offer,,,,,,,47.865098,1.901575
+Rejected,SOCOTEC,Data Scientist,Palaiseau,Pole emploi,Not specified,2023-09-20,Offer,,,,,,2023-10-13,48.714459,2.245384
+Applied,Thalès,Software Engineer,Toulouse,Carrer Site,Not specified,2023-09-20,Offer,,,,,,,43.604462,1.444247
+Applied,DataScientest,Data Engineer,Puteaux,Welcome to the Jungle,Hybrid,2023-09-20,Offer,,,,,,,48.884152,2.236886
+Rejected,Spinergie,Software Engineer,Paris,Welcome to the Jungle,Hybrid,2023-09-20,Not specified,,,,,,2023-11-10,48.8534951,2.3483915
+Applied,Skillwise,Data Engineer,Paris,LinkedIn,On-site,2023-09-21,Offer,,,,,,,48.8534951,2.3483915
+Applied,CHU de Reims,Data Scientist,Reims,Carrer Site,On-site,2023-09-21,Offer,,,,,,,49.257789,4.031926
+Rejected,Exotec,AI,Lille,Carrer Site,On-site,2023-09-21,Offer,,,,,,2023-09-25,50.636565,3.063528
+Rejected,akeneo,Data Scientist,Paris,Carrer Site,Hybrid,2023-09-21,Offer,,2023-09-22,2023-09-25,,,2023-10-10,48.8534951,2.3483915
+Applied,Goupe LGM,Data Engineer,Grenoble,LinkedIn,On-site,2023-09-21,Offer,,,,,,,45.18756,5.735782
+Applied,,Data Scientist,Epernay,Pole emploi,Not specified,2023-09-21,Offer,,,,,,,49.042561,3.952865
+Rejected,Sophia Genetics,Data Scientist,Bordeaux,Carrer Site,Not specified,2023-09-21,Offer,,,,,,2023-10-16,44.841225,-0.580036
+Applied,CapGemini,Software Engineer,Paris,LinkedIn,Hybrid,2023-09-21,Offer,,,,,,,48.8534951,2.3483915
+Applied,Astek,Data Engineer,Lille,Carrer Site,Not specified,2023-09-21,Offer,,,,,,,50.636565,3.063528
+Applied,EOS France,Data Engineer,Paris,LinkedIn,On-site,2023-09-21,Offer,,,,,,,48.8534951,2.3483915
+Applied,Crédit Agricole,Data Engineer,Montpellier,LinkedIn,Hybrid,2023-09-21,Offer,,,,,,,43.611242,3.876734
+Applied,DGSE,Data Analyst,Paris,LinkedIn,On-site,2023-09-22,Offer,,,,,,,48.8534951,2.3483915
+Applied,Orange,Data Scientist,Belfort,Carrer Site,Not specified,2023-09-22,Offer,,,,,,,47.63796,6.862894
+Applied,Sophia Genetics,AI,Bordeaux,Carrer Site,Not specified,2023-09-22,Offer,,,,,,,44.841225,-0.580036
+Applied,Dataiku,Software Engineer,Netherlands,Carrer Site,Remote,2023-09-25,Offer,,,,,,,51.9724664894952,5.61349061168593
+Applied,Descartes Underwriting,Data Scientist,Paris,LinkedIn,Hybrid,2023-09-25,Offer,,,,,,,48.8534951,2.3483915
+Applied,AIKO,AI,Toulouse,LinkedIn,Remote,2023-09-26,Offer,,,,,,,43.604462,1.444247
+Rejected,DLL,Data Analyst,Antwerp,LinkedIn,Remote,2023-09-26,Offer,,,,,,2023-09-29,51.22111,4.399708
+Applied,Revolut,Data Scientist,Portugal,LinkedIn,Remote,2023-09-26,Offer,,,,,,,39.6009946583093,-8.56273059638958
+Applied,LocalSolver,Software Engineer,Paris,LinkedIn,Hybrid,2023-09-26,Offer,,,,,,,48.8534951,2.3483915
+Applied,Devoteam,Data Engineer,Levallois-Perret,LinkedIn,Not specified,2023-09-26,Offer,,,,,,,48.892956,2.288168
+Applied,Recticel,Data Scientist,Ghent,LinkedIn,Hybrid,2023-09-26,Offer,,,,,,,51.053829,3.725012
+Applied,La Banque Postale,Data Scientist,Issy-les-Moulineaux,Apec,Not specified,2023-09-26,Offer,,,,,,,48.825051,2.273457
+Applied,LTD,Data Scientist,Paris,Pole emploi,Not specified,2023-09-26,Offer,,,,,,,48.8534951,2.3483915
+Applied,WISP Solutions,Data Scientist,Vincennes,Pole emploi,Not specified,2023-09-26,Offer,,,,,,,38.677269,-87.528633
+Rejected,Lenstra,Software Engineer,Paris,Carrer Site,Hybrid,2023-09-26,Offer,,,,,,2023-09-29,48.8534951,2.3483915
+Applied,Davricourt,Data Scientist,Beauvais,Apec,Hybrid,2023-09-26,Offer,,,,,,,49.4301,2.082335
+Applied,Numberly,Data Analyst,Paris,Carrer Site,Not specified,2023-09-26,Offer,,,,,,,48.8534951,2.3483915
+Applied,Capgemini,AI,Strasbourg,LinkedIn,Hybrid,2023-09-26,Offer,,,,,,,48.5834833,7.7468476
+Applied,Fluves,AI,Ghent,LinkedIn,Hybrid,2023-09-26,Offer,,,,,,,51.053829,3.725012
+Applied,PREREQUIS,Data Engineer,Paris,LinkedIn,Hybrid,2023-09-26,Offer,,,,,,,48.8534951,2.3483915
+Applied,Cofidis,Data Analyst,Villeneuve-d'Ascq,Carrer Site,Not specified,2023-09-27,Offer,,,,,,,50.619317,3.1314
+Applied,Datadog,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-27,Offer,,,,,,,,
+Applied,Urban Linker,Software Engineer,Paris,LinkedIn,Hybrid,2023-09-27,Offer,,,,,,,48.8534951,2.3483915
+Rejected,Wisebim,AI,La Motte-Servolex,HelloWork,Hybrid,2023-09-27,Offer,,2023-10-02,2023-10-11,2023-10-18,2023-10-20,2023-10-23,45.598411,5.876793
+Rejected,OMP,Software Engineer,Ghent,Carrer Site,Hybrid,2023-09-27,Offer,,,,,,2023-10-02,51.053829,3.725012
+Applied,MedBoard,Data Scientist,Spain,LinkedIn,Remote,2023-09-27,Offer,,,,,,,41.2948556295683,-4.05568501525488
+Applied,ShopFully,Data Engineer,Italy,LinkedIn,Remote,2023-09-27,Offer,,,,,,,42.5041539170675,12.6463610364431
+Applied,Fujitsu,AI,Portagul,LinkedIn,Remote,2023-09-27,Offer,,,,,,,30.48776,-86.4858
+Applied,Staffsource,Data Scientist,Netherlands,Carrer Site,Remote,2023-09-27,Offer,,,,,,,51.9724664894952,5.61349061168593
+Applied,Nuclia,Software Engineer,Spain,LinkedIn,Remote,2023-09-27,Offer,,,,,,,41.2948556295683,-4.05568501525488
+Applied,TalentsIT,Data Engineer,Orléans,Carrer Site,Not specified,2023-09-27,Offer,,,,,,,47.902734,1.908607
+Applied,OTTEO,Data Engineer,Lille,Cadremploi,Not specified,2023-09-27,Offer,,,,,,,50.636565,3.063528
+Applied,AnotherBrain,AI,Paris,LinkedIn,Hybrid,2023-09-28,Offer,,,,,,,48.8534951,2.3483915
+Rejected,CS GROUP,Data Engineer,Toulouse,LinkedIn,Hybrid,2023-09-28,Offer,,,,,,2023-10-25,43.604462,1.444247
+Rejected,Printemps,Data Scientist,Paris,Carrer Site,Not specified,2023-09-28,Offer,,,,,,2023-11-10,48.8534951,2.3483915
+Applied,Printemps,Data Scientist,Not specified,Carrer Site,Not specified,2023-09-28,Spontaneous,,,,,,,,
+Rejected,Free,Data Scientist,Paris,Carrer Site,Hybrid,2023-09-28,Offer,,,,,,2023-10-26,48.8534951,2.3483915
+Rejected,Equativ,Data Scientist,Paris,LinkedIn,Hybrid,2023-09-28,Offer,,,,,,2023-10-06,48.8534951,2.3483915
+Rejected,Sia Partners,AI,Paris,LinkedIn,On-site,2023-09-28,Offer,,,,,,2023-10-06,48.8534951,2.3483915
+Rejected,Sia Partners,Data Engineer,Paris,LinkedIn,On-site,2023-09-28,Offer,,,,,,2023-10-06,48.8534951,2.3483915
+Applied,AI-Stroke,AI,Montpellier,LinkedIn,Not specified,2023-10-02,Offer,,,,,,,43.611242,3.876734
+Applied,DGA,AI,Bruz,Carrer Site,On-site,2023-10-19,Offer,,,,,,,10.165985,-68.893859
+Applied,DGA,AI,Bruz,Carrer Site,On-site,2023-10-19,Offer,,,,,,,10.165985,-68.893859
+Rejected,Criteo,Data Scientist,Paris,Carrer Site,Hybrid,2023-10-25,Offer,,,,,,2023-10-27,48.8534951,2.3483915
+Applied,TotalEnergies,Data Scientist,Paris,Carrer Site,On-site,2023-10-26,Offer,,,,,,,48.8534951,2.3483915
+Applied,Jaji,Data Scientist,Paris,Pole emploi,Hybrid,2023-10-26,Offer,,,,,,,48.8534951,2.3483915
+Applied,DGA,AI,Bruz,Carrer Site,On-site,2023-10-26,Offer,,,,,,,10.165985,-68.893859
+Applied,Hexamind,AI,Paris,LinkedIn,Hybrid,2023-10-26,Offer,,,,,,,48.8534951,2.3483915
+Applied,Trimble,AI,Gentilly,Carrer Site,Not specified,2023-10-26,Offer,,,,,,,48.815366,2.348355
+Applied,MP Data,Data Scientist,Bourgogne,LinkedIn,Hybrid,2023-10-26,Offer,,,,,,,47.906345,1.912431
+Applied,Sia Partners,Data Scientist,Lyon,LinkedIn,On-site,2023-10-27,Offer,,,,,,,45.757814,4.832011
+Rejected,Seyos,Data Engineer,Nantes,LinkedIn,On-site,2023-10-27,Offer,,,,,,2023-10-28,47.2181827,-1.5512441
+Applied,ALTAROAD,Data Scientist,Paris,Pole emploi,Not specified,2023-10-27,Offer,,,,,,,48.8534951,2.3483915
+Applied,Sia Partners,AI,Paris,LinkedIn,On-site,2023-10-27,Offer,,,,,,,48.8534951,2.3483915
+Rejected,Saint-Gobain,Data Scientist,Aubervilliers,Carrer Site,Not specified,2023-10-27,Offer,,,,,,2023-11-07,48.914608,2.382189
+Applied,Akkodis,Data Scientist,Courbevoie,Apec,Not specified,2023-10-27,Offer,,,,,,,48.895333,2.25616
+Applied,Digimind,AI,Grenoble,Pole emploi,Hybrid,2023-10-30,Offer,,,,,,,45.18756,5.735782
+Applied,Fidérim,Data Engineer,Annecy,HelloWork,Not specified,2023-10-30,Offer,,,,,,,45.899235,6.128885
+Applied,Safran,Data Scientist,Montereau-sur-le-Jard,HelloWork,Not specified,2023-10-30,Offer,,,,,,,48.59192,2.667909
+Rejected,Groupe Beaumanoir,Data Scientist,Saint-Malo,HelloWork,Not specified,2023-10-30,Offer,,,,,,2023-11-17,48.649518,-2.026041
+Applied,AOSIS,Data Scientist,Lyon,HelloWork,Not specified,2023-10-30,Offer,,,,,,,45.757814,4.832011
+Applied,Reactis Services,Data Scientist,Boulogne-Billancourt,HelloWork,Not specified,2023-10-30,Offer,,,,,,,48.835665,2.240206
+Rejected,Solutec,Data Scientist,Toulouse,Carrer Site,Not specified,2023-10-30,Offer,,,,,,2023-11-03,43.604462,1.444247
+Rejected,Solutec,Data Scientist,Paris,Carrer Site,Not specified,2023-10-30,Spontaneous,,,,,,2023-11-04,48.8534951,2.3483915
+Rejected,Safran,Data Engineer,Colombes,HelloWork,Not specified,2023-10-30,Offer,,,,,,2023-10-30,48.922788,2.254358
+Applied,Scalian,AI,Leuven,LinkedIn,Hybrid,2023-10-30,Offer,,,,,,,50.879202,4.701168
+Applied,Orthogrid,AI,France,Carrer Site,Not specified,2023-10-30,Spontaneous,,,,,,,47.8249046208979,2.61878695312962
+Rejected,Devoteam,Data Engineer,Lille,LinkedIn,Hybrid,2023-10-30,Offer,,,,,,2023-11-01,50.636565,3.063528
+Rejected,IDEMIA,Software Engineer,Paris,Carrer Site,Not specified,2023-10-30,Offer,,,,,,2023-11-13,48.8534951,2.3483915
+Applied,Joinrs,AI,Paris,Carrer Site,Not specified,2023-10-30,Spontaneous,,,,,,,48.8534951,2.3483915
+Applied,Joinrs,AI,Paris,Carrer Site,Not specified,2023-10-30,Offer,,,,,,,48.8534951,2.3483915
+Applied,Abylsen,Data Analyst,Bruxelles,Carrer Site,Not specified,2023-10-30,Offer,,,,,,,53.341305,-6.260924
+Applied,Club Med,Data Analyst,Montréal,Carrer Site,Not specified,2023-10-30,Offer,,,,,,,45.503182,-73.569807
+Applied,ERAMET,Data Analyst,Libreville,Carrer Site,Not specified,2023-10-30,Offer,,,,,,,0.400015,9.456696
+Applied,TMC,Data Scientist,Bruxelles,Carrer Site,Not specified,2023-10-30,Offer,,,,,,,53.341305,-6.260924
+Applied,ERAMET,Data Analyst,Diogo,Carrer Site,Not specified,2023-10-30,Offer,,,,,,,-28.759604,-49.274544
+Applied,GIE Corum Butler,Data Scientist,Lisbon,Carrer Site,Not specified,2023-10-30,Offer,,,,,,,38.707751,-9.136592
+Applied,Airbus,Data Scientist,Marseille,Carrer Site,Not specified,2023-10-30,Offer,,,,,,,43.296174,5.369952
+Applied,Pro à Pro,Data Analyst,Montauban,Apec,Not specified,2023-10-30,Offer,,,,,,,44.017584,1.354999
+Applied,Gamgee BV,Data Scientist,Nertherlands,LinkedIn,Remote,2023-10-31,Offer,,,,,,,51.9724664894952,5.61349061168593
+Applied,Blockchain.com,Data Engineer,Paris,LinkedIn,Remote,2023-10-31,Offer,,,,,,,48.8534951,2.3483915
+Applied,Blockchain.com,Data Engineer,Lacaussade,LinkedIn,Remote,2023-10-31,Offer,,,,,,,44.507007,0.825511
+Rejected,padao,Data Engineer,Paris,LinkedIn,On-site,2023-10-31,Offer,,,,,,2023-11-06,48.8534951,2.3483915
+Rejected,BearingPoint,Data Analyst,Paris,LinkedIn,On-site,2023-10-31,Offer,,,,,,2023-11-04,48.8534951,2.3483915
+Applied,OXO Team,Data Scientist,Clermont-Ferrand,Apec,Not specified,2023-10-31,Offer,,,,,,,45.777455,3.081943
+Accepted,MP Data,Data Engineer,Not specified,Pole emploi,Not specified,2023-10-31,Offer,2023-11-06,2023-11-06,,,,2023-11-09,,
+Applied,ALTEN,Data Scientist,Rennes,Carrer Site,Not specified,2023-10-31,Offer,,,,,,,48.111339,-1.68002
+Applied,ALTEN,AI,Rennes,Carrer Site,Not specified,2023-10-31,Offer,,,,,,,48.111339,-1.68002
+Applied,Showroomprivé,Data Scientist,Saint-Denis,Welcome to the Jungle,Hybrid,2023-10-31,Offer,,,,,,,48.935773,2.358023
+Rejected,Mawenzi Partners,Data Scientist,Paris,Welcome to the Jungle,Hybrid,2023-10-31,Offer,,,,,,2023-10-31,48.8534951,2.3483915
+Applied,MP Data,Data Scientist,Chalon-sur-Saône,Welcome to the Jungle,Hybrid,2023-10-31,Offer,,,,,,,46.7806898,4.8541122
+Applied,Armée de l’air et de l’espace,Data Scientist,Mont-de-Marsan,LinkedIn,On-site,2023-10-31,Offer,,,,,,,43.891132,-0.500972
+Applied,CrowdStrike,AI,Romania,Carrer Site,Remote,2023-11-01,Offer,,,,,,,45.8436147575587,24.9692584752492
+Applied,,Data Scientist,Paris,Apec,Not specified,2023-11-01,Offer,,,,,,,48.8534951,2.3483915
+Applied,Illumo Robotics,Data Scientist,Toulouse,Apec,Not specified,2023-11-01,Offer,,,,,,,43.604462,1.444247
+Applied,Digimind,AI,Grenoble,Carrer Site,Hybrid,2023-11-01,Offer,,,,,,,45.18756,5.735782
+Applied,Valeo,AI,Tuam,Carrer Site,Not specified,2023-11-01,Offer,,,,,,,-13.909227,-171.798858
+Applied,Valeo,AI,Tuam,Carrer Site,Not specified,2023-11-01,Offer,,,,,,,-13.909227,-171.798858
+Applied,GCI,Data Engineer,Montpellier,Carrer Site,Not specified,2023-11-01,Offer,,,,,,,43.611242,3.876734
+Rejected,PwC,Data Analyst,Neuilly-sur-Seine,Carrer Site,Not specified,2023-11-01,Offer,,,,,,2023-11-08,48.884683,2.269566
+Turn down,MCA,DevOps Engineer,Nantes,LinkedIn,On-site,2023-11-02,Offer,2023-11-02,2023-11-09,,,,2023-11-09,47.2181827,-1.5512441
+Rejected,Crédit Mutuel,Data Scientist,Villeneuve-d'Ascq,Carrer Site,Not specified,2023-11-02,Offer,,,,,,2023-11-04,50.619317,3.1314
+Applied,Crédit Mutuel,Data Engineer,Nantes,Carrer Site,Not specified,2023-11-02,Offer,,,,,,,47.2181827,-1.5512441
+Rejected,Crédit Mutuel,Data Analyst,Strasbourg,Carrer Site,Not specified,2023-11-02,Offer,,,,,,2023-11-10,48.5834833,7.7468476
+Applied,Framatome,Data Scientist,Montbard,HelloWork,Hybrid,2023-11-02,Offer,,,,,,,47.624167,4.337319
+Applied,Envjoy,Data Scientist,Spain,LinkedIn,Remote,2023-11-02,Offer,,,,,,,41.2948556295683,-4.05568501525488
+Applied,Ceva,AI,Plouédern,LinkedIn,On-site,2023-11-03,Offer,,,,,,,48.484152,-4.245935
+Applied,Sapeins Group,Data Engineer,Lille,LinkedIn,On-site,2023-11-03,Offer,,,,,,,50.636565,3.063528
+Rejected,Airbus,Data Engineer,Toulouse,Carrer Site,Not specified,2023-11-03,Offer,,,,,,2023-11-13,43.604462,1.444247
+Applied,Jems,Data Engineer,Nantes,Carrer Site,Hybrid,2023-11-03,Offer,,,,,,,47.2181827,-1.5512441
+Rejected,Jems,Data Analyst,Nantes,Carrer Site,Hybrid,2023-11-03,Offer,,,,,,2023-11-10,47.2181827,-1.5512441
+Rejected,Jems,Data Engineer,Lille,Carrer Site,Hybrid,2023-11-03,Offer,,,,,,2023-11-07,50.636565,3.063528
+Applied,Jems,Data Engineer,Paris,Carrer Site,Hybrid,2023-11-03,Offer,,,,,,,48.8534951,2.3483915
+Rejected,Jems,Data Engineer,Rennes,Carrer Site,Hybrid,2023-11-03,Offer,,,,,,2023-11-03,48.111339,-1.68002
+Applied,Jems,Data Engineer,Lyon,Carrer Site,Hybrid,2023-11-03,Offer,,,,,,,45.757814,4.832011
+Applied,Silent Eight,Data Scientist,Warsaw,LinkedIn,Remote,2023-11-03,Offer,,,,,,,52.231958,21.006725
+Applied,Direction générale des Finances publiques,Data Scientist,Paris,LinkedIn,On-site,2023-11-03,Offer,,,,,,,48.8534951,2.3483915
+Applied,fifty-five,Data Engineer,Paris,LinkedIn,Hybrid,2023-11-03,Offer,,,,,,,48.8534951,2.3483915
+Applied,Ubiquity.AI,Not specified,Bordeaux,LinkedIn,On-site,2023-11-03,Offer,,,,,,,44.841225,-0.580036
+Applied,CNRS,Data Scientist,Annecy,Carrer Site,On-site,2023-11-06,Offer,,,,,,,45.899235,6.128885
+Rejected,AdWay,Data Scientist,Paris,LinkedIn,Hybrid,2023-09-28,Offer,2023-09-28,2023-10-10,,,,2023-10-26,48.8534951,2.3483915
+Rejected,SOLUTEC,Data Scientist,Paris,Reach-out,Not specified,,Not specified,2023-10-02,2023-10-06,,,,2023-10-12,48.8534951,2.3483915
+Rejected,Micheal Page,Software Engineer,Courbevoie,Cadremploi,Not specified,2023-09-27,Offer,,,,,,2023-09-28,48.895333,2.25616
+Rejected,Atos,Data Engineer,Genoble,Cadremploi,Not specified,2023-09-27,Offer,,,,,,2023-09-28,40.90158,-74.36656
+Rejected,Databack,Software Engineer,La Roche-sur-Yon,LinkedIn,On-site,2023-09-22,Offer,2023-09-26,,,,,2023-10-02,46.670543,-1.42697
+Rejected,Sogeti,Data Scientist,Utrecht,Carrer Site,Not specified,2023-09-13,Offer,,,,,,2023-09-15,52.090701,5.121563
